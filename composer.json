@@ -1,0 +1,15 @@
+{
+    "name": "speker/bemstyles",
+    "authors": [
+        {
+            "name": "Artem Besedin",
+            "email": "speker@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
